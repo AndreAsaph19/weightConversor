@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeightConversor</string>
+    <string name="valor">Valor</string>
+    <string name="kg_lbs">kg->lbs</string>
+    <string name="lbs_kg">lbs->kg</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
